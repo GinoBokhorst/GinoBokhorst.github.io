@@ -1,2 +1,2 @@
 # GinoBokhorst.github.io
-Documentatie schrijver
+  Documentatie
