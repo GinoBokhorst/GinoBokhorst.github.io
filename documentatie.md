@@ -54,7 +54,7 @@ De game is opgebouwd in het programma "Unity". In deze omgeving kan de game dan 
 </ul>
 Het einddoel:
 Het einddoel is het creeëren van een game die qua code hetzelfde zou zijn als een werkelijk Monopolie spel, maar met een andere stijl; een russische. Dus alle aspecten van de orginele Monopolie alleen dan anders weergegeven. Dus wel hetzelfde aantal vakjes en kanskaarten en algemeenfondskaarten maar dan met andere teksten. Qua animaties laten we het voor wat het is, dus die worden niet appart gemaakt en ook niet gebruikt als het niet standaard in "Unity" zit. Qua dobbelstenen moet het zo realitisch mogelijk dus met de kansen van twee dobbelstenen. 
-<BR>
+
 Done:
 <ul>
 <li>Bord met vakjes</li>
