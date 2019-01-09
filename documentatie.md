@@ -17,19 +17,22 @@ Stappenplan nieuwe collega's:
   <li>  2. Volg de instructies voor de programma's die je nodig hebt (zie tekst onder de genoemde programma's). </li>
   <li>  3. Lees de memo's van jouw rol. </li>
 </ul>
+
 Gebruikte programma's:
-Brackets (documentatieSchrijver) 
+<ul>
+<li>Brackets (documentatieSchrijver) </li>
     -> Downloaden (http://brackets.io/) en installeren.
-       In dit programma wordt de documentatie geschreven. Dit programma is gekoppeld aan GithubPages.
-Github (Iedereen)
+       In dit programma wordt de documentatie geschreven. Dit programma is gekoppeld aan GithubPages. 
+<li>Github (Iedereen) </li>
     -> Account aanmaken en Github Desktop downloaden (https://desktop.github.com/) en installeren en daarna de backend(;Martijn Kruijer) vragen om jouw gebruikersnaam laten toevoegen aan het GitHub project.                    Gebonden aan de repository(;MKruijer/2018-aa6-monopolonycolonieVanCatan) is het project "Monopolycolonievancatan" wanneer je hierop klikt zie je verscheidene columns en cards. Dit is eigenlijk een overzichtelijke      weergave van de regels van het spel. Al die spelregels zijn zo exact mogelijk geschreven en wanneer je nieuwe spelregels toevoegd wordt er ook van je verwacht dat je deze zo concreet mogelijk opschrijft.
-Unity (backend, frontend)
+<li>Unity (backend, frontend)</li>
     -> Downloaden (https://unity3d.com/get-unity/download) en installeren. 
        Hierin wordt de werkende game gebouwd. Het is handig om de Roll-a-ball tutorial te voltooien (https://unity3d.com/learn/tutorials/s/roll-ball-tutorial). 
-Windows Visual Studio Code (backend)
+<li>Windows Visual Studio Code (backend) </li>
     -> Downloaden (https://code.visualstudio.com/) en installeren.
        Dit programma wordt gebruikt om het script voor de game te schrijven. Dit script is gekoppeld aan het progamma "Unity". </p1>
        
+ </ul>
 <h1>Korte samenvatting van hoe het project in elkaar zit:
 
 De game is opgebouwd in het programma "Unity". In deze omgeving kan de game dan ook getest en gespeeld worden. De frontend is geheel opgebouwd in "Unity". Links in "Unity" zie je een foldersysteem waarin alle aspecten van de game zijn geordend. Deze komen in redelijke wijze overeen met de architectuur die hier nader besproken wordt. De scripts die zijn geschreven voor de objecten in "Unity" zijn geschreven in het programma "Windows Visual Code" en vervolgens gekoppeld aan "Unity". Het overzicht van de taken wordt bewaard in het programma "Github", hierin is dus de architectuur opgebouwd. In "Github" tref je een repository aan en dit is de overzichtelijke weergave van welke regels en objecten er in de game moeten worden toegevoegd.</h1>
