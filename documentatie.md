@@ -43,8 +43,31 @@ achitectuur : In Github vind je in de repository(;MKruijer/2018-aa6-monopolonyco
               colum 6(;kanskaarten)          : Hierin staat elke kanskaart met het de tekst die op de kaart moet gaan staan plus het gewenste effect dat de kaart moet gaan leveren.
               colum 7(;algemeen fondskaarten): Hierin staat elke algemeen fondskaart met de de tekst die op die kaart moet gaan staan plus het gewenste effect dat de kaart moet gaan leveren.
               De reden van dit format is dat deze manier van schematisch dingen ordenen erg overzichtelijk is. Wanneer je nu als backend of frontend bezig bent kan je meteen zien wat er allemaal moet gebeuren en zal het aantal vragen qua wat een object of speler of wat dan ook moet doen ook afnemen. 
-assistent1  : Namen bedacht voor de straten. Geholpen met de architectuur en de opbouw van het bord vanuit de frontend.
-assistent2  : Bord gemaakt met frontend en Martijn's code gekoppeld en de architectuur geïmplementeerd. </p1>
+
+Het einddoel:
+Het einddoel is het creeëren van een game die qua code hetzelfde zou zijn als een werkelijk Monopolie spel, maar met een andere stijl; een russische. Dus alle aspecten van de orginele Monopolie alleen dan anders weergegeven. Dus wel hetzelfde aantal vakjes en kanskaarten en algemeenfondskaarten maar dan met andere teksten. Qua animaties laten we het voor wat het is, dus die worden niet appart gemaakt en ook niet gebruikt als het niet standaard in "Unity" zit. Qua dobbelstenen moet het zo realitisch mogelijk dus met de kansen van twee dobbelstenen. 
+
+Done:
+Bord met vakjes
+Straatnamen op de vakjes
+Speelbaar met 2 spelers
+Dobbelsteen geïmplementeerd in de game
+Het in staat zijn om straten te kunnen kopen
+Het in staat zijn van geld hebben
+Het bewegen van een tweetal pionen
+
+To-do:
+Kans aanpassen voor de dobbelsteen
+Uitsluiten dat spelers meerdere beurten achterelkaar kunnen spelen
+Kanskaarten implementeren
+Algemeenfondskaarten implementeren
+De opmaak van de pionen
+Het kunnen kiezen uit 2,3 of 4 spelers
+Het cameraperspectief dynamisch maken
+Geld eraf halen wanneer mensen op andermans straat komt
+Hotels kunnen bouwen
+Huizen kunnen bouwen
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Twee dobbelstenen -> verschillende kansen
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
