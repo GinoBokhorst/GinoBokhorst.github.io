@@ -10,11 +10,13 @@
 <li>assistent1             = Thomas Doornkamp </li>
 <li>assistent2             = Gerald Wolff </li>
 </ul>
+  
 Stappenplan nieuwe collega's:
-    1. Kijk welke programma's je nodig hebt voor jouw rol (zie "Gebruikte programma's").
-    2. Volg de instructies voor de programma's die je nodig hebt (zie tekst onder de genoemde programma's).
-    3. Lees de memo's van jouw rol.
-    
+<ul>
+  <li>  1. Kijk welke programma's je nodig hebt voor jouw rol (zie "Gebruikte programma's"). </li>
+  <li>  2. Volg de instructies voor de programma's die je nodig hebt (zie tekst onder de genoemde programma's). </li>
+  <li>  3. Lees de memo's van jouw rol. </li>
+</ul>
 Gebruikte programma's:
 Brackets (documentatieSchrijver) 
     -> Downloaden (http://brackets.io/) en installeren.
