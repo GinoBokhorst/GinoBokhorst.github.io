@@ -1,8 +1,8 @@
 # GinoBokhorst.github.io
-<h1>Documentatie monopolonycolonieVanCatan
-  - Het spel is gebasseerd op Monopolie en heeft een Russisch tintje. 
+<h1>Documentatie monopolonycolonieVanCatan</h1>
+<p2>  - Het spel is gebasseerd op Monopolie en heeft een Russisch tintje. </p2>
   
-documentatieSchrijver  = Gino Bokhorst
+<p1>documentatieSchrijver  = Gino Bokhorst
 backend                = Martijn Kruijer
 frontend               = Obe Kaldeway
 architectuur           = Daniël Scheepstra
@@ -25,13 +25,13 @@ Unity (backend, frontend)
        Hierin wordt de werkende game gebouwd. Het is handig om de Roll-a-ball tutorial te voltooien (https://unity3d.com/learn/tutorials/s/roll-ball-tutorial). 
 Windows Visual Studio Code (backend)
     -> Downloaden (https://code.visualstudio.com/) en installeren.
-       Dit programma wordt gebruikt om het script voor de game te schrijven. Dit script is gekoppeld aan het progamma "Unity". </h1>
+       Dit programma wordt gebruikt om het script voor de game te schrijven. Dit script is gekoppeld aan het progamma "Unity". </p1>
        
-<B>Korte samenvatting van hoe het project in elkaar zit:
+<h1>Korte samenvatting van hoe het project in elkaar zit:</h1>
 
-De game is opgebouwd in het programma "Unity". In deze omgeving kan de game dan ook getest en gespeeld worden. De frontend is geheel opgebouwd in "Unity". Links in "Unity" zie je een foldersysteem waarin alle aspecten van de game zijn geordend. Deze komen in redelijke wijze overeen met de architectuur die hier nader besproken wordt. De scripts die zijn geschreven voor de objecten in "Unity" zijn geschreven in het programma "Windows Visual Code" en vervolgens gekoppeld aan "Unity". Het overzicht van de taken wordt bewaard in het programma "Github", hierin is dus de architectuur opgebouwd. In "Github" tref je een repository aan en dit is de overzichtelijke weergave van welke regels en objecten er in de game moeten worden toegevoegd. </B> 
+<p1>De game is opgebouwd in het programma "Unity". In deze omgeving kan de game dan ook getest en gespeeld worden. De frontend is geheel opgebouwd in "Unity". Links in "Unity" zie je een foldersysteem waarin alle aspecten van de game zijn geordend. Deze komen in redelijke wijze overeen met de architectuur die hier nader besproken wordt. De scripts die zijn geschreven voor de objecten in "Unity" zijn geschreven in het programma "Windows Visual Code" en vervolgens gekoppeld aan "Unity". Het overzicht van de taken wordt bewaard in het programma "Github", hierin is dus de architectuur opgebouwd. In "Github" tref je een repository aan en dit is de overzichtelijke weergave van welke regels en objecten er in de game moeten worden toegevoegd.</p1> 
 
-<h1>productOwner: 
+<p1>productOwner: 
 backend     : De backend is opgebouwd vanuit "Windows Visual Studio Code". Hierin wordt elk script geschreven die vervolgens wordt gekoppeld aan de canvasbuttons in Unity. Variabele in scripts worden aan elkaar gekoppeld                 door middel van een "." voor het desbetreffende script. Alle straten zijn tot op heden nog niet gekoppeld aan een individueel script. Als vervanging wordt nu het script "ActionScript.cs" gebruikt.
 frontend    : De frontend is opgebouwd vanuit Unity. Het begon allemaal met het creeëren van het 3D Object - Plane, die Plane is de basis; onderkant van het spelbord (verder in de tekst is deze Plane aangeduidt                           als basis). Op de basis zijn 40 andere Planes geplaats. Deze Planes komen overeen met de spelvakjes van het spel. 4/40 Planes zijn de hoekpunten van het spel en de resterende 36/40 Planes zijn de spelvakjes;               straten. De spelvakjes en de hoekpunten zijn geordend in mapjes en hebben elk ook een eigen naam gekregen.
 achitectuur : In Github vind je in de repository(;MKruijer/2018-aa6-monopolonycolonieVanCatan) het project "Monopolycolonievancatan" terug. Hierin staan 7 columns en in die columns staan verscheidene cards. Hieronder elke               colum met een korte toelichting.
@@ -44,12 +44,12 @@ achitectuur : In Github vind je in de repository(;MKruijer/2018-aa6-monopolonyco
               colum 7(;algemeen fondskaarten): Hierin staat elke algemeen fondskaart met de de tekst die op die kaart moet gaan staan plus het gewenste effect dat de kaart moet gaan leveren.
               De reden van dit format is dat deze manier van schematisch dingen ordenen erg overzichtelijk is. Wanneer je nu als backend of frontend bezig bent kan je meteen zien wat er allemaal moet gebeuren en zal het aantal vragen qua wat een object of speler of wat dan ook moet doen ook afnemen. 
 assistent1  : Namen bedacht voor de straten. Geholpen met de architectuur en de opbouw van het bord vanuit de frontend.
-assistent2  : Bord gemaakt met frontend en Martijn's code gekoppeld en de architectuur geïmplementeerd. </h1>
+assistent2  : Bord gemaakt met frontend en Martijn's code gekoppeld en de architectuur geïmplementeerd. </p1>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Twee dobbelstenen -> verschillende kansen
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Statusrapport (6-12-2018)
+<p2>Statusrapport (6-12-2018)
 productOwner: Verscheidene cards aan het column "spelers" van Monopolie toegevoegd aan de repository (Aangegeven door: "added by SimonHolman").
 backend     : Frontend begeleid in het opzetten van het begin van de game in Unity.
 frontend    : Begin gemaakt in het opzetten van de game in Unity, zoals het maken van het bord en enkele vakjes daarop.
@@ -81,4 +81,4 @@ productOwner: Overlegd met productOwners van andere teams.
 backend     : Overlegd met backenddevelopers van andere teams. De frontend geholpen met het toevoegen van tekst op het spelbord.
 frontend    : Overlegd met frontenddevelopers van andere teams. Begonnen met het plaatsen van tekst op het spelbord.
 achitectuur : Overlegd met architecten van andere teams.
-assistent   : Resterende straatnamen bedacht voor de straten van het spel (zie het column "vakjes" in de repository).
+assistent   : Resterende straatnamen bedacht voor de straten van het spel (zie het column "vakjes" in de repository). </p2>
