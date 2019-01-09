@@ -4,6 +4,7 @@
 <p1>  
   <BR>
 <ul>
+<li>productOwner           = Simon Holman</li>
 <li>documentatieSchrijver  = Gino Bokhorst </li>
 <li>backend                = Martijn Kruijer </li>
 <li>frontend               = Obe Kaldeway </li>
