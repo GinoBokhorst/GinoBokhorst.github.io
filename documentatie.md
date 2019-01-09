@@ -36,7 +36,7 @@ Gebruikte programma's:
  </ul>
 <B>Korte samenvatting van hoe het project in elkaar zit:
 
-De game is opgebouwd in het programma "Unity". In deze omgeving kan de game dan ook getest en gespeeld worden. De frontend is geheel opgebouwd in "Unity". Links in "Unity" zie je een foldersysteem waarin alle aspecten van de game zijn geordend. Deze komen in redelijke wijze overeen met de architectuur die hier nader besproken wordt. De scripts die zijn geschreven voor de objecten in "Unity" zijn geschreven in het programma "Windows Visual Code" en vervolgens gekoppeld aan "Unity". Het overzicht van de taken wordt bewaard in het programma "Github", hierin is dus de architectuur opgebouwd. In "Github" tref je een repository aan en dit is de overzichtelijke weergave van welke regels en objecten er in de game moeten worden toegevoegd.</B>
+De game is opgebouwd in het programma "Unity". In deze omgeving kan de game dan ook getest en gespeeld worden. De frontend is geheel opgebouwd in "Unity". Links in "Unity" zie je een foldersysteem waarin alle aspecten van de game zijn geordend. Deze komen in redelijke wijze overeen met de architectuur die hier nader besproken wordt. De scripts die zijn geschreven voor de objecten in "Unity" zijn geschreven in het programma "Windows Visual Code" en vervolgens gekoppeld aan de canvasbuttons in "Unity". Het overzicht van de taken wordt bewaard in het programma "Github", hierin is dus de architectuur opgebouwd. In "Github" tref je een repository aan en dit is de overzichtelijke weergave van welke regels en objecten er in de game moeten worden toegevoegd.</B>
 
 <ul>
 <li>productOwner: Zorg ervoor dat je het overzicht bewaard en dat iedereen zijn/haar taak volbrengt.</li>
