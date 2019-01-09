@@ -50,13 +50,13 @@ De game is opgebouwd in het programma "Unity". In deze omgeving kan de game dan 
 <li> colum 5(;vakjes)               : Hierin staat elk vakje en hoe die moet heten en welke regels eraan gebonden moeten worden.</li>
 <li> colum 6(;kanskaarten)          : Hierin staat elke kanskaart met het de tekst die op de kaart moet gaan staan plus het gewenste effect dat de kaart moet gaan leveren.</li>
 <li> colum 7(;algemeen fondskaarten): Hierin staat elke algemeen fondskaart met de de tekst die op die kaart moet gaan staan plus het gewenste effect dat de kaart moet gaan leveren.</li></ul>
-              De reden van dit format is dat deze manier van schematisch dingen ordenen erg overzichtelijk is. Wanneer je nu als backend of frontend bezig bent kan je meteen zien wat er allemaal moet gebeuren en zal het aantal vragen qua wat een object of speler of wat dan ook moet doen ook afnemen. 
+  <BR>
+De reden van dit format is dat deze manier van schematisch dingen ordenen erg overzichtelijk is. Wanneer je nu als backend of frontend bezig bent kan je meteen zien wat er allemaal moet gebeuren en zal het aantal vragen qua wat een object of speler of wat dan ook moet doen ook afnemen. 
 </ul>
 Het einddoel:
 Het einddoel is het creeëren van een game die qua code hetzelfde zou zijn als een werkelijk Monopolie spel, maar met een andere stijl; een russische. Dus alle aspecten van de orginele Monopolie alleen dan anders weergegeven. Dus wel hetzelfde aantal vakjes en kanskaarten en algemeenfondskaarten maar dan met andere teksten. Qua animaties laten we het voor wat het is, dus die worden niet appart gemaakt en ook niet gebruikt als het niet standaard in "Unity" zit. Qua dobbelstenen moet het zo realitisch mogelijk dus met de kansen van twee dobbelstenen. 
-
-Done:
-<ul>
+<BR>
+Done:<ul>
 <li>Bord met vakjes</li>
 <li>Straatnamen op de vakjes</li>
 <li>Speelbaar met 2 spelers</li>
