@@ -3,12 +3,13 @@
 <p2>  - Het spel is gebasseerd op Monopolie en heeft een Russisch tintje. </p2>
   
 <p1>documentatieSchrijver  = Gino Bokhorst
-backend                = Martijn Kruijer
-frontend               = Obe Kaldeway
-architectuur           = Daniël Scheepstra
-assistent1             = Thomas Doornkamp
-assistent2             = Gerald Wolff
-
+<ul>
+<li>backend                = Martijn Kruijer </li>
+<li>frontend               = Obe Kaldeway </li>
+<li>architectuur           = Daniël Scheepstra </li>
+<li>assistent1             = Thomas Doornkamp </li>
+<li>assistent2             = Gerald Wolff </li>
+</ul>
 Stappenplan nieuwe collega's:
     1. Kijk welke programma's je nodig hebt voor jouw rol (zie "Gebruikte programma's").
     2. Volg de instructies voor de programma's die je nodig hebt (zie tekst onder de genoemde programma's).
