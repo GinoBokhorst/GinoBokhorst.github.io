@@ -42,13 +42,14 @@ De game is opgebouwd in het programma "Unity". In deze omgeving kan de game dan 
 <li>backend     : De backend is opgebouwd vanuit "Windows Visual Studio Code". Hierin wordt elk script geschreven die vervolgens wordt gekoppeld aan de canvasbuttons in Unity. Variabele in scripts worden aan elkaar gekoppeld                 door middel van een "." voor het desbetreffende script. Alle straten zijn tot op heden nog niet gekoppeld aan een individueel script. Als vervanging wordt nu het script "ActionScript.cs" gebruikt.</li>
 <li>frontend    : De frontend is opgebouwd vanuit Unity. Het begon allemaal met het creeëren van het 3D Object - Plane, die Plane is de basis; onderkant van het spelbord (verder in de tekst is deze Plane aangeduidt                           als basis). Op de basis zijn 40 andere Planes geplaats. Deze Planes komen overeen met de spelvakjes van het spel. 4/40 Planes zijn de hoekpunten van het spel en de resterende 36/40 Planes zijn de spelvakjes;               straten. De spelvakjes en de hoekpunten zijn geordend in mapjes en hebben elk ook een eigen naam gekregen.</li>
 <li>achitectuur : In Github vind je in de repository(;MKruijer/2018-aa6-monopolonycolonieVanCatan) het project "Monopolycolonievancatan" terug. Hierin staan 7 columns en in die columns staan verscheidene cards. Hieronder elke               colum met een korte toelichting.</li>
+<ul>
 <li> colum 1(;spelers)              : Hierin staat globaal welke variable spelers moeten gaan bevatten. </li>
 <li> colum 2(;objecten)             : Hierin staat welke objecten de game uiteindelijk moet gaan bevatten. </li>
 <li> colum 3(;handelsysteem)        : Hierin staat wat voor transacties er uiteindelijk moeten kunnen plaatsvinden tussen spelers en de bank.</li>
 <li> colum 4(;besturing)            : Hierin staat hoe de speler moet reageren op de verschillende vakjes en bepaalde kaarten.</li>
 <li> colum 5(;vakjes)               : Hierin staat elk vakje en hoe die moet heten en welke regels eraan gebonden moeten worden.</li>
 <li> colum 6(;kanskaarten)          : Hierin staat elke kanskaart met het de tekst die op de kaart moet gaan staan plus het gewenste effect dat de kaart moet gaan leveren.</li>
-<li> colum 7(;algemeen fondskaarten): Hierin staat elke algemeen fondskaart met de de tekst die op die kaart moet gaan staan plus het gewenste effect dat de kaart moet gaan leveren.</li>
+<li> colum 7(;algemeen fondskaarten): Hierin staat elke algemeen fondskaart met de de tekst die op die kaart moet gaan staan plus het gewenste effect dat de kaart moet gaan leveren.</li></ul>
               De reden van dit format is dat deze manier van schematisch dingen ordenen erg overzichtelijk is. Wanneer je nu als backend of frontend bezig bent kan je meteen zien wat er allemaal moet gebeuren en zal het aantal vragen qua wat een object of speler of wat dan ook moet doen ook afnemen. 
 </ul>
 Het einddoel:
