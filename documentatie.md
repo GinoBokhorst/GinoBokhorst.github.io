@@ -79,9 +79,6 @@ To-do:
 <li>Veiling implementeren</li>
 <li>Bedrijven implenteren</li>
 <li>Hypotheek implementeren</li>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Twee dobbelstenen -> verschillende kansen
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p2>Statusrapport (6-12-2018)
 productOwner: Verscheidene cards aan het column "spelers" van Monopolie toegevoegd aan de repository (Aangegeven door: "added by SimonHolman").
