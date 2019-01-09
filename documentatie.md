@@ -64,6 +64,8 @@ Done:<ul>
 <li>Het in staat zijn om straten te kunnen kopen</li>
 <li>Het in staat zijn van geld hebben</li>
 <li>Het bewegen van een tweetal pionen</li>
+<li>Geld eraf halen wanneer mensen op andermans straat komt</li>
+
 </ul>
 To-do:
 <ul>
@@ -74,7 +76,6 @@ To-do:
 <li>De opmaak van de pionen</li>
 <li>Het kunnen kiezen uit 2,3 of 4 spelers</li>
 <li>Het cameraperspectief dynamisch maken</li>
-<li>Geld eraf halen wanneer mensen op andermans straat komt</li>
 <li>Hotels kunnen bouwen</li>
 <li>Huizen kunnen bouwen</li>
 <li>Veiling implementeren</li>
