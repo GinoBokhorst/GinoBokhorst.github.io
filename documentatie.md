@@ -27,9 +27,9 @@ Windows Visual Studio Code (backend)
     -> Downloaden (https://code.visualstudio.com/) en installeren.
        Dit programma wordt gebruikt om het script voor de game te schrijven. Dit script is gekoppeld aan het progamma "Unity". </p1>
        
-<h1>Korte samenvatting van hoe het project in elkaar zit:</h1>
+<h1>Korte samenvatting van hoe het project in elkaar zit:
 
-<p5>De game is opgebouwd in het programma "Unity". In deze omgeving kan de game dan ook getest en gespeeld worden. De frontend is geheel opgebouwd in "Unity". Links in "Unity" zie je een foldersysteem waarin alle aspecten van de game zijn geordend. Deze komen in redelijke wijze overeen met de architectuur die hier nader besproken wordt. De scripts die zijn geschreven voor de objecten in "Unity" zijn geschreven in het programma "Windows Visual Code" en vervolgens gekoppeld aan "Unity". Het overzicht van de taken wordt bewaard in het programma "Github", hierin is dus de architectuur opgebouwd. In "Github" tref je een repository aan en dit is de overzichtelijke weergave van welke regels en objecten er in de game moeten worden toegevoegd.</p1> 
+De game is opgebouwd in het programma "Unity". In deze omgeving kan de game dan ook getest en gespeeld worden. De frontend is geheel opgebouwd in "Unity". Links in "Unity" zie je een foldersysteem waarin alle aspecten van de game zijn geordend. Deze komen in redelijke wijze overeen met de architectuur die hier nader besproken wordt. De scripts die zijn geschreven voor de objecten in "Unity" zijn geschreven in het programma "Windows Visual Code" en vervolgens gekoppeld aan "Unity". Het overzicht van de taken wordt bewaard in het programma "Github", hierin is dus de architectuur opgebouwd. In "Github" tref je een repository aan en dit is de overzichtelijke weergave van welke regels en objecten er in de game moeten worden toegevoegd.</h1>
 
 <p1>productOwner: Zorg ervoor dat je het overzicht bewaard en dat iedereen zijn/haar taak volbrengt.
 backend     : De backend is opgebouwd vanuit "Windows Visual Studio Code". Hierin wordt elk script geschreven die vervolgens wordt gekoppeld aan de canvasbuttons in Unity. Variabele in scripts worden aan elkaar gekoppeld                 door middel van een "." voor het desbetreffende script. Alle straten zijn tot op heden nog niet gekoppeld aan een individueel script. Als vervanging wordt nu het script "ActionScript.cs" gebruikt.
@@ -44,7 +44,7 @@ achitectuur : In Github vind je in de repository(;MKruijer/2018-aa6-monopolonyco
               colum 7(;algemeen fondskaarten): Hierin staat elke algemeen fondskaart met de de tekst die op die kaart moet gaan staan plus het gewenste effect dat de kaart moet gaan leveren.
               De reden van dit format is dat deze manier van schematisch dingen ordenen erg overzichtelijk is. Wanneer je nu als backend of frontend bezig bent kan je meteen zien wat er allemaal moet gebeuren en zal het aantal vragen qua wat een object of speler of wat dan ook moet doen ook afnemen. 
 assistent1  : Namen bedacht voor de straten. Geholpen met de architectuur en de opbouw van het bord vanuit de frontend.
-assistent2  : Bord gemaakt met frontend en Martijn's code gekoppeld en de architectuur geïmplementeerd. </p5>
+assistent2  : Bord gemaakt met frontend en Martijn's code gekoppeld en de architectuur geïmplementeerd. </p1>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Twee dobbelstenen -> verschillende kansen
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
