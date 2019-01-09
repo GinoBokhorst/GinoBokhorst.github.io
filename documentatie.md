@@ -55,25 +55,27 @@ Het einddoel:
 Het einddoel is het creeëren van een game die qua code hetzelfde zou zijn als een werkelijk Monopolie spel, maar met een andere stijl; een russische. Dus alle aspecten van de orginele Monopolie alleen dan anders weergegeven. Dus wel hetzelfde aantal vakjes en kanskaarten en algemeenfondskaarten maar dan met andere teksten. Qua animaties laten we het voor wat het is, dus die worden niet appart gemaakt en ook niet gebruikt als het niet standaard in "Unity" zit. Qua dobbelstenen moet het zo realitisch mogelijk dus met de kansen van twee dobbelstenen. 
 
 Done:
-Bord met vakjes
-Straatnamen op de vakjes
-Speelbaar met 2 spelers
-Dobbelsteen geïmplementeerd in de game
-Het in staat zijn om straten te kunnen kopen
-Het in staat zijn van geld hebben
-Het bewegen van een tweetal pionen
-
+<ul>
+<li>Bord met vakjes</li>
+<li>Straatnamen op de vakjes</li>
+<li>Speelbaar met 2 spelers</li>
+<li>Dobbelsteen geïmplementeerd in de game</li>
+<li>Het in staat zijn om straten te kunnen kopen</li>
+<li>Het in staat zijn van geld hebben</li>
+<li>Het bewegen van een tweetal pionen</li>
+</ul>
 To-do:
-Kans aanpassen voor de dobbelsteen
-Uitsluiten dat spelers meerdere beurten achterelkaar kunnen spelen
-Kanskaarten implementeren
-Algemeenfondskaarten implementeren
-De opmaak van de pionen
-Het kunnen kiezen uit 2,3 of 4 spelers
-Het cameraperspectief dynamisch maken
-Geld eraf halen wanneer mensen op andermans straat komt
-Hotels kunnen bouwen
-Huizen kunnen bouwen
+<ul>
+<li>Kans aanpassen voor de dobbelsteen</li>
+<li>Uitsluiten dat spelers meerdere beurten achterelkaar kunnen spelen</li>
+<li>Kanskaarten implementeren</li>
+<li>Algemeenfondskaarten implementeren</li>
+<li>De opmaak van de pionen</li>
+<li>Het kunnen kiezen uit 2,3 of 4 spelers</li>
+<li>Het cameraperspectief dynamisch maken</li>
+<li>Geld eraf halen wanneer mensen op andermans straat komt</li>
+<li>Hotels kunnen bouwen</li>
+<li>Huizen kunnen bouwen</li>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Twee dobbelstenen -> verschillende kansen
