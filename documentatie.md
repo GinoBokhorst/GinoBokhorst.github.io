@@ -1,9 +1,9 @@
 # GinoBokhorst.github.io
 <h1>Documentatie monopolonycolonieVanCatan</h1>
 <p2>  - Het spel is gebasseerd op Monopolie en heeft een Russisch tintje. </p2>
-  
-<p1>documentatieSchrijver  = Gino Bokhorst
+<p1>  
 <ul>
+<li>documentatieSchrijver  = Gino Bokhorst </li>
 <li>backend                = Martijn Kruijer </li>
 <li>frontend               = Obe Kaldeway </li>
 <li>architectuur           = Daniël Scheepstra </li>
