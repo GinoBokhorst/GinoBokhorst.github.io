@@ -2,6 +2,7 @@
 <h1>Documentatie monopolonycolonieVanCatan</h1>
 <p2>  - Het spel is gebasseerd op Monopolie en heeft een Russisch tintje. </p2>
 <p1>  
+  <BR>
 <ul>
 <li>documentatieSchrijver  = Gino Bokhorst </li>
 <li>backend                = Martijn Kruijer </li>
